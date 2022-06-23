@@ -10,7 +10,7 @@ Backend - [https://research-managment-tool.herokuapp.com](https://research-manag
 
 ### Project Description
 
-This is a research managment tool built for SLIIT students to manage their final year research project. Purpose this system is to automate tasks and provide a management tool for students and sliit staff.
+This is a research project managment tool built for SLIIT students and staff to manage undergaradutes' final year research project. Purpose of this system is to automate tasks and improve the interactions between final year students and staff for the research project.
 
 ### Technologies (MERN stack)
 
